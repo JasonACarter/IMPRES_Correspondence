@@ -1,0 +1,208 @@
+Pt_name	RECIST	Stage	OS	Status	Biopsy_tyype	Tumor_WES	Normal_WES	Tumor_RNA	Dataset			
+Pt1	Progressive Disease	M1b	607	Dead	pre-treatment	SRR3083866	SRR3083867	SRR3184279	Hugo			
+Pt2	Partial Response	M1c	927	Alive	pre-treatment	SRR3083839	SRR3083840	SRR3184280	Hugo			
+Pt3	Partial Response	M1c	691	Dead	pre-treatment	SRR3083841	SRR3083842	NA	Hugo			
+Pt4	Partial Response	M1c	948	Alive	pre-treatment	SRR3083837	SRR3083838	SRR3184281	Hugo			
+Pt5	Partial Response	M1c	439	Alive	pre-treatment	SRR3083857	SRR3083858	SRR3184282	Hugo			
+Pt6	Partial Response	M1c	882	Alive	pre-treatment	SRR3083863	SRR3083864	SRR3184283	Hugo			
+Pt7	Progressive Disease	M1c	662	Dead	pre-treatment	SRR3083870	SRR3083871	SRR3184284	Hugo			
+Pt8	Complete Response	M1a	NA	Alive	pre-treatment	SRR4289715	SRR4289714	SRR3184285	Hugo			
+Pt9	Complete Response	M0	1054	Alive	pre-treatment	SRR3083849	SRR3083850	SRR3184286	Hugo			
+Pt10	Progressive Disease	M1a	387	Alive	pre-treatment	SRR4289717	SRR4289716	SRR3184287	Hugo			
+Pt12	Progressive Disease	M1c	327	Dead	pre-treatment	SRR3083882	SRR3083883	SRR3184288	Hugo			
+Pt13	Complete Response	M1c	917	Alive	pre-treatment	SRR3083855	SRR3083856	SRR3184289	Hugo			
+Pt14	Progressive Disease	M1c	54	Alive	pre-treatment	SRR3083868	SRR3083869	SRR3184290	Hugo			
+Pt15	Partial Response	M1b	980	Dead	pre-treatment	SRR3083845	SRR3083846	SRR3184291	Hugo			
+Pt18	Partial Response	M1c	1081	Alive	pre-treatment	SRR3083859	SRR3083860	NA	Hugo			
+Pt19	Partial Response	M1c	1060	Alive	pre-treatment	SRR3083847	SRR3083848	SRR3184293	Hugo			
+Pt20	Progressive Disease	M1c	337	Dead	pre-treatment	SRR3083872	SRR3083873	SRR3184294	Hugo			
+Pt21	Partial Response	M1b	945	Dead	pre-treatment	SRR3083861	SRR3083862	NA	Hugo			
+Pt22	Progressive Disease	M1c	182	Dead	pre-treatment	SRR3083878	SRR3083879	SRR3184295	Hugo			
+Pt23	Progressive Disease	M1c	103	Dead	pre-treatment	SRR3083874	SRR3083875	SRR3184296	Hugo			
+Pt24	Partial Response	M1c	974	Dead	pre-treatment	SRR3083853	SRR3083854	NA	Hugo			
+Pt25	Progressive Disease	M1c	262	Dead	pre-treatment	SRR3083880	SRR3083881	SRR3184297	Hugo			
+Pt27	Complete Response	M1C	548	Alive	pre-treatment	SRR4289725	SRR4289724	SRR3184298	Hugo			
+Pt27	Complete Response	M1C	548	Alive	pre-treatment	SRR4289726	SRR4289724	SRR3184299	Hugo			
+Pt28	Partial Response	M1c	439	Dead	pre-treatment	SRR3083851	SRR3083852	SRR3184300	Hugo			
+Pt29	Progressive Disease	M1c	269	Dead	pre-treatment	SRR3083876	SRR3083877	SRR3184301	Hugo			
+Pt30	Progressive Disease	M1c	100	Dead	pre-treatment	SRR4289728	SRR4289727	NA	Hugo			
+Pt31	Progressive Disease	M1c	704	Alive	pre-treatment	SRR4289730	SRR4289729	SRR3184302	Hugo			
+Pt32	Progressive Disease	M1c	171	Dead	pre-treatment	SRR4289732	SRR4289731	SRR3184303	Hugo			
+Pt33	Complete Response	M1a	2177	Alive	pre-treatment	SRR4289734	SRR4289733	NA	Hugo			
+Pt34	Complete Response	M1c	418	Alive	pre-treatment	SRR4289736	SRR4289735	NA	Hugo			
+Pt35	Partial Response	M1c	427	Alive	pre-treatment	SRR4289738	SRR4289737	SRR3184304	Hugo			
+Pt36	Progressive Disease	M1a	837	Dead	pre-treatment	SRR4289740	SRR4289739	NA	Hugo			
+Pt37	Partial Response	M1c	364	Alive	pre-treatment	SRR4289742	SRR4289741	SRR3184305	Hugo			
+Pt38	Partial Response	M1c	448	Alive	pre-treatment	SRR4289744	SRR4289743	SRR3184306	Hugo			
+Pt1	Progressive Disease	M1C	160	Dead	pre-treatment	NA	NA	SRR5088813	Riaz			
+Pt10	Stable Disease	M1A	256	Dead	pre-treatment	SRR5134764	SRR5134829	SRR5088887	Riaz			
+Pt100	Progressive Disease	M1C	840	Dead	pre-treatment	SRR5134841	SRR5134747	NA	Riaz			
+Pt101	Partial Response	M1A	833.9999997	Alive	pre-treatment	SRR5134894	SRR5134797	SRR5088834	Riaz			
+Pt102	Stable Disease	NA	636	Alive	pre-treatment	SRR5134753	SRR5134896	NA	Riaz			
+Pt103	Progressive Disease	M1B	484	Alive	pre-treatment	SRR5134820	SRR5134840	SRR5088872	Riaz			
+Pt104	Partial Response	NA	818.0000003	Alive	pre-treatment	SRR5134790	SRR5134765	NA	Riaz			
+Pt106	Progressive Disease	M1C	91	Dead	pre-treatment	SRR5134830	SRR5134814	SRR5088926	Riaz			
+Pt108	Stable Disease	M1B	912.9999998	Alive	pre-treatment	SRR5134754	SRR5134908	NA	Riaz			
+Pt11	Progressive Disease	NA	837.0000002	Dead	pre-treatment	SRR5134846	SRR5134865	SRR5088916	Riaz			
+Pt13	Progressive Disease	NA	280	Dead	pre-treatment	SRR5134748	SRR5134772	NA	Riaz			
+Pt17	Progressive Disease	M1C	57	Dead	pre-treatment	SRR5134905	SRR5134780	SRR5088890	Riaz			
+Pt18	Partial Response	M1A	1073	Alive	pre-treatment	SRR5134891	SRR5134889	SRR5088891	Riaz			
+Pt2	Stable Disease	M1B	275	Dead	pre-treatment	NA	NA	SRR5088815	Riaz			
+Pt23	Not Evaluated	M1C	52	Dead	pre-treatment	SRR5134770	SRR5134767	SRR5088818	Riaz			
+Pt24	Progressive Disease	M1C	149	Alive	pre-treatment	SRR5134799	SRR5134768	SRR5088906	Riaz			
+Pt25	Progressive Disease	M1C	101	Dead	pre-treatment	SRR5134880	SRR5134920	NA	Riaz			
+Pt26	Stable Disease	M1B	952	Alive	pre-treatment	SRR5134847	SRR5134760	SRR5088920	Riaz			
+Pt27	Progressive Disease	M1C	475	Dead	pre-treatment	SRR5134917	SRR5134915	SRR5088908	Riaz			
+Pt28	Progressive Disease	NA	739.9999999	Dead	pre-treatment	SRR5134776	SRR5134826	SRR5088922	Riaz			
+Pt29	Progressive Disease	M1C	273	Dead	pre-treatment	SRR5134828	SRR5134819	SRR5088909	Riaz			
+Pt3	Partial Response	UNKNOWN	1144	Alive	pre-treatment	SRR5134838	SRR5134912	SRR5088878	Riaz			
+Pt30	Complete Response	M1A	1053	Alive	pre-treatment	SRR5134907	SRR5134756	SRR5088911	Riaz			
+Pt31	Progressive Disease	M1A	961.0000001	Alive	pre-treatment	SRR5134867	SRR5134885	SRR5088913	Riaz			
+Pt32	Progressive Disease	M1C	114	Alive	pre-treatment	SRR5134762	SRR5134806	NA	Riaz			
+Pt34	Partial Response	M1B	833.9999997	Alive	pre-treatment	SRR5134834	SRR5134860	SRR5088929	Riaz			
+Pt36	Stable Disease	M1C	1081	Alive	pre-treatment	SRR5134849	SRR5134763	SRR5088898	Riaz			
+Pt37	Stable Disease	M1A	646	Dead	pre-treatment	SRR5134904	SRR5134919	SRR5088900	Riaz			
+Pt38	Stable Disease	M1C	167	Dead	pre-treatment	SRR5134786	SRR5134769	SRR5088895	Riaz			
+Pt39	Progressive Disease	M1C	166	Dead	pre-treatment	NA	NA	SRR5088819	Riaz			
+Pt4	Stable Disease	M1B	633	Dead	pre-treatment	SRR5134818	SRR5134893	SRR5088880	Riaz			
+Pt44	Partial Response	NA	1093	Alive	pre-treatment	SRR5134866	SRR5134900	SRR5088924	Riaz			
+Pt46	Progressive Disease	M1A	227	Dead	pre-treatment	SRR5134793	SRR5134832	SRR5088904	Riaz			
+Pt47	Progressive Disease	M1B	718.0000002	Dead	pre-treatment	SRR5134903	SRR5134788	SRR5088836	Riaz			
+Pt48	Complete Response	M1C	1046	Alive	pre-treatment	SRR5134802	SRR5134861	SRR5088897	Riaz			
+Pt49	Partial Response	UNKNOWN	826.9999997	Alive	pre-treatment	SRR5134833	SRR5134823	SRR5088824	Riaz			
+Pt5	Progressive Disease	M1C	222	Dead	pre-treatment	SRR5134862	SRR5134809	SRR5088883	Riaz			
+Pt51	Progressive Disease	M1A	57	Alive	pre-treatment	SRR5134816	SRR5134870	NA	Riaz			
+Pt52	Progressive Disease	M1C	476	Dead	pre-treatment	SRR5134778	SRR5134791	SRR5088839	Riaz			
+Pt53	Partial Response	M1C	433	Dead	pre-treatment	SRR5134895	SRR5134775	NA	Riaz			
+Pt54	Partial Response	NA	865.0000002	Alive	pre-treatment	SRR5134918	SRR5134810	NA	Riaz			
+Pt58	Stable Disease	M1C	499	Dead	pre-treatment	SRR5134845	SRR5134798	NA	Riaz			
+Pt59	Stable Disease	M1A	707.9999997	Dead	pre-treatment	SRR5134848	SRR5134821	SRR5088821	Riaz			
+Pt60	Progressive Disease	M1A	737.9999998	Alive	pre-treatment	SRR5134782	SRR5134902	NA	Riaz			
+Pt62	Progressive Disease	M1C	472	Dead	pre-treatment	NA	NA	SRR5088856	Riaz			
+Pt65	Stable Disease	M1B	692	Alive	pre-treatment	SRR5134812	SRR5134825	SRR5088857	Riaz			
+Pt66	Progressive Disease	UNKNOWN	542	Dead	pre-treatment	SRR5134843	SRR5134887	SRR5088826	Riaz			
+Pt67	Stable Disease	M1C	1032	Alive	pre-treatment	SRR5134864	SRR5134898	SRR5088840	Riaz			
+Pt68	Partial Response	M1B	842.0000001	Alive	pre-treatment	SRR5134888	SRR5134831	NA	Riaz			
+Pt7	Partial Response	M1C	1149	Alive	pre-treatment	SRR5134910	SRR5134854	NA	Riaz			
+Pt70	Stable Disease	M1C	311	Dead	pre-treatment	SRR5134890	SRR5134901	NA	Riaz			
+Pt71	Stable Disease	M1C	246	Alive	pre-treatment	SRR5134758	SRR5134781	NA	Riaz			
+Pt72	Partial Response	M1B	770	Dead	pre-treatment	SRR5134858	SRR5134800	SRR5088861	Riaz			
+Pt73	Stable Disease	M1C	281	Alive	pre-treatment	SRR5134844	SRR5134779	NA	Riaz			
+Pt74	Not Evaluated	M1C	20	Dead	pre-treatment	SRR5134766	SRR5134755	NA	Riaz			
+Pt76	Not Evaluated	M1C	10	Dead	pre-treatment	SRR5134842	SRR5134877	SRR5088827	Riaz			
+Pt77	Stable Disease	M1A	471	Dead	pre-treatment	SRR5134883	SRR5134811	SRR5088846	Riaz			
+Pt78	Progressive Disease	M1C	77.99999998	Dead	pre-treatment	NA	NA	SRR5088864	Riaz			
+Pt79	Stable Disease	UNKNOWN	218	Dead	pre-treatment	SRR5134792	SRR5134757	SRR5088849	Riaz			
+Pt8	Progressive Disease	M0	259	Dead	pre-treatment	SRR5134777	SRR5134787	SRR5088914	Riaz			
+Pt82	Stable Disease	M1C	429	Dead	pre-treatment	SRR5134869	SRR5134822	SRR5088822	Riaz			
+Pt83	Stable Disease	M1C	462	Alive	pre-treatment	SRR5134824	SRR5134796	NA	Riaz			
+Pt84	Progressive Disease	M1C	151	Dead	pre-treatment	SRR5134749	SRR5134752	SRR5088850	Riaz			
+Pt85	Progressive Disease	M1A	903.9999997	Alive	pre-treatment	SRR5134911	SRR5134794	SRR5088829	Riaz			
+Pt86	Progressive Disease	M1C	272	Dead	pre-treatment	SRR5134851	SRR5134745	NA	Riaz			
+Pt87	Stable Disease	UNKNOWN	973.9999997	Alive	pre-treatment	SRR5134875	SRR5134852	NA	Riaz			
+Pt89	Stable Disease	M1A	844.0000002	Dead	pre-treatment	SRR5134873	SRR5134837	SRR5088831	Riaz			
+Pt9	Progressive Disease	M1C	91.99999998	Dead	pre-treatment	SRR5134839	SRR5134805	SRR5088885	Riaz			
+Pt90	Progressive Disease	M1C	174	Dead	pre-treatment	SRR5134876	SRR5134850	SRR5088866	Riaz			
+Pt92	Stable Disease	UNKNOWN	333	Dead	pre-treatment	SRR5134871	SRR5134874	SRR5088867	Riaz			
+Pt93	Progressive Disease	M1C	849.0000001	Alive	pre-treatment	SRR5134804	SRR5134815	NA	Riaz			
+Pt94	Complete Response	M1C	980.9999997	Alive	pre-treatment	SRR5134886	SRR5134855	SRR5088843	Riaz			
+Pt98	Stable Disease	M1C	746.9999999	Dead	pre-treatment	SRR5134856	SRR5134892	SRR5088853	Riaz			
+Pat02	Stable Disease	M1c	1632	Alive	pre-treatment	NA	NA	SRR2689710	VanAllen			
+Pat03	Progressive Disease	M1c	100	Dead	pre-treatment	NA	NA	SRR2689711	VanAllen			
+Pat04	Partial Response	M1b	987	Alive	pre-treatment	NA	NA	SRR2689711	VanAllen			
+Pat06	Progressive Disease	M1c	161	Dead	pre-treatment	NA	NA	SRR2774280	VanAllen			
+Pat08	Progressive Disease	M1c	140	Dead	pre-treatment	NA	NA	SRR2778361	VanAllen			
+Pat118	Progressive Disease	M1c	313	Dead	pre-treatment	NA	NA	SRR2772780	VanAllen			
+Pat119	Progressive Disease	M0	808	Alive	pre-treatment	NA	NA	SRR2770872	VanAllen			
+Pat123	Stable Disease	M1c	853	Dead	pre-treatment	NA	NA	SRR2779596	VanAllen			
+Pat14	Progressive Disease	M1c	163	Dead	pre-treatment	NA	NA	SRR2771207	VanAllen			
+Pat15	Progressive Disease	M1c	50	Dead	pre-treatment	NA	NA	SRR2669446	VanAllen			
+Pat16	Progressive Disease	M1b	811	Dead	pre-treatment	NA	NA	SRR2780299	VanAllen			
+Pat19	Progressive Disease	M1c	175	Dead	pre-treatment	NA	NA	SRR2774182	VanAllen			
+Pat25	Progressive Disease	M1c	325	Dead	pre-treatment	NA	NA	SRR2755094	VanAllen			
+Pat27	Progressive Disease	M1c	1379	Alive	pre-treatment	NA	NA	SRR2771617	VanAllen			
+Pat28	Progressive Disease	M1c	1184	Dead	pre-treatment	NA	NA	SRR2660032	VanAllen			
+Pat33	Progressive Disease	M1c	211	Dead	pre-treatment	NA	NA	SRR2779097	VanAllen			
+Pat36	Progressive Disease	M1c	54	Dead	pre-treatment	NA	NA	SRR2777976	VanAllen			
+Pat37	Progressive Disease	M1c	70	Dead	pre-treatment	NA	NA	SRR2778466	VanAllen			
+Pat38	Partial Response	M1c	1539	Alive	pre-treatment	NA	NA	SRR2778056	VanAllen			
+Pat39	Complete Response	M1b	1487	Alive	pre-treatment	NA	NA	SRR2665516	VanAllen			
+Pat40	Progressive Disease	M1c	34	Dead	pre-treatment	NA	NA	SRR2751521	VanAllen			
+Pat41	Progressive Disease	M1c	128	Dead	pre-treatment	NA	NA	SRR3083584	VanAllen			
+Pat43	Progressive Disease	M1b	37	Dead	pre-treatment	NA	NA	SRR2771286	VanAllen			
+Pat44	Progressive Disease	M1c	271	Dead	pre-treatment	NA	NA	SRR2780123	VanAllen			
+Pat45	Progressive Disease	M1c	89	Dead	pre-treatment	NA	NA	SRR2777065	VanAllen			
+Pat46	Progressive Disease	M1b	160	Dead	pre-treatment	NA	NA	SRR2777217	VanAllen			
+Pat47	Complete Response	M1c	1106	Alive	pre-treatment	NA	NA	SRR2771707	VanAllen			
+Pat49	Stable Disease	M1c	1034	Alive	pre-treatment	NA	NA	SRR2778078	VanAllen			
+Pat50	Progressive Disease	M1c	65	Dead	pre-treatment	NA	NA	SRR2700736	VanAllen			
+Pat79	Partial Response	M1b	801	Dead	pre-treatment	NA	NA	SRR2753064	VanAllen			
+Pat80	Stable Disease	M1c	724	Dead	pre-treatment	NA	NA	SRR2674135	VanAllen			
+Pat81	Progressive Disease	M1a	628	Dead	pre-treatment	NA	NA	SRR2661579	VanAllen			
+Pat83	Progressive Disease	M1c	1027	Alive	pre-treatment	NA	NA	SRR2778609	VanAllen			
+Pat85	Progressive Disease	M1c	458	Dead	pre-treatment	NA	NA	SRR2779183	VanAllen			
+Pat86	Stable Disease	M1a	293	Dead	pre-treatment	NA	NA	SRR2775133	VanAllen			
+Pat88	Stable Disease	M1c	989	Alive	pre-treatment	NA	NA	SRR2712420	VanAllen			
+Pat90	Partial Response	M1c	1005	Dead	pre-treatment	NA	NA	SRR2757338	VanAllen			
+Pat98	Progressive Disease	M1c	140	Dead	pre-treatment	NA	NA	SRR3083781	VanAllen			
+Pat20	Progressive Disease	NA	116.0	Alive	pre-treatment	NA	NA	SRR2672095	VanAllen			
+Pt16	Progressive Disease	NA	186	Dead	on-treatment	NA	NA	SRR3184292	Hugo			
+Pat126	Partial Response	NA	NA	NA	NA	NA	NA	SRR2675767	VanAllen			
+Pat29	Partial Response	NA	NA	NA	NA	NA	NA	SRR2681702	VanAllen			
+Pat91	Partial Response	NA	NA	NA	NA	NA	NA	SRR2701663	VanAllen			
+Pat04	Partial Response	M1b	987	Alive	pre-treatment	NA	NA	SRR2780275	VanAllen			
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
