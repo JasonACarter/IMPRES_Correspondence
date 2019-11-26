@@ -7,7 +7,7 @@ IMPRES does not reproducibly predict response to immune checkpoint blockade ther
   * [Unbiased_IMPRES](https://github.com/JasonACarter/IMPRES_Correspondence/tree/master/Code/Unbiased_IMPRES): Run the IMPRES feature selection algorithm as described by Auslander *et al.*
 * [Datasets](https://github.com/JasonACarter/IMPRES_Correspondence/tree/master/Datasets)
   * [Auslander](https://github.com/JasonACarter/IMPRES_Correspondence/tree/master/Datasets/Auslander): Datasets provided by Auslander *et al.*
-  * [TPM Datasets](https://github.com/JasonACarter/IMPRES_Correspondence/tree/master/Datasets/TPM Datasets): TPM datasets generated using Kallisto
+  * [TPM Datasets](https://github.com/JasonACarter/IMPRES_Correspondence/tree/master/Datasets/TPM_Datasets): TPM datasets generated using Kallisto
  
   
 ## Requirements
